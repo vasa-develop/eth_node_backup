@@ -1,0 +1,6 @@
+admin.nodeInfo
+eth.coinbase
+netstate -l
+admin.nodeInfo
+admin.peers
+admin.nodeInfo
